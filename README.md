@@ -69,6 +69,7 @@ The simulation relies on a custom distance-based force curve:
 
 <img width="885" height="643" alt="image" src="https://github.com/user-attachments/assets/f4a802c0-25a5-4baa-a9ac-0e19e5e710f1" />
 
+
 * **Close Range:** Universal repulsion forces apply to prevent overlapping particles.
 * **Mid Range:** Governed by the custom attraction matrix, pulling similar or opposing colors together based on your settings.
 * **Long Range:** Dropoff zones where the relative force returns to zero.
