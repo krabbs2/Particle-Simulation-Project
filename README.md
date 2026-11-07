@@ -1,1 +1,1 @@
-# Particle-Simulation-Project
+# Particle Simulation Project
